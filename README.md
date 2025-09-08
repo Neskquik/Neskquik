@@ -18,7 +18,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,react,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,git,github,vscode,figma" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neskquik&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neskquiko&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neskquik&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
