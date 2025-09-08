@@ -46,5 +46,3 @@
 </p>
 
 ---
-
-<h3 align="center">✨ "Código limpo é poesia escrita em lógica." ✨</h3>
