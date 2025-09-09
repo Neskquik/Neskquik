@@ -3,16 +3,16 @@
 ---
 
 ## 🧑 Sobre mim
-- 🚀 Desenvolvedor focado em **otimização de sistemas** e **automação**
-- 💡 Sempre explorando **novas tecnologias**
-- 🌍 Baseado em **Brasil**
-- 🎯 Objetivo: **criar soluções que impactem positivamente**
+- 🚀 Desenvolvedor focado em **Desenvolvimento de site e Automatização de Software.**
+- 💡 Sempre explorando **novas tecnologias.**
+- 🌍 Baseado em **Brasil.**
+- 🎯 Objetivo: **criar soluções que impactem positivamente.**
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
 </p>
 
 ---
