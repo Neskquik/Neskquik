@@ -1,11 +1,5 @@
 <h1 align="center">👨‍💻 Olá, eu sou o Athos André</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/seu-usuario?label=Followers&style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/stars/seu-usuario?label=Stars&style=flat-square&logo=github" />
-</p>
-
 ---
 
 ## 🧑 Sobre mim
