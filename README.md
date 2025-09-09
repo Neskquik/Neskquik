@@ -41,8 +41,8 @@
 ## 🌐 Onde me encontrar
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/seu-usuario"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Neskquik"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
+  <a href="mailto:andreterto007@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
