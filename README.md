@@ -17,20 +17,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neskquik&theme=tokyonight" 
-    height="165"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neskquik&theme=tokyonight" 
-    height="165"
-    alt="Linguagens mais usadas"
-  />
 </p>## 📊 Estatísticas do GitHub
 
 <p align="center">
