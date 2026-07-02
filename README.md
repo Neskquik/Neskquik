@@ -17,32 +17,45 @@
 
 ---
 
-</p>## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-<p align="center">
+<div align="center">
+
   <img 
+    width="100%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neskquik&theme=tokyonight" 
+    alt="Resumo do perfil"
+  />
+
+  <br><br>
+
+  <img 
+    width="49%" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neskquik&theme=tokyonight" 
-    height="165"
     alt="Estatísticas do GitHub"
   />
 
   <img 
+    width="49%" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neskquik&theme=tokyonight" 
-    height="165"
-    alt="Linguagens mais usadas"
+    alt="Linguagens por repositório"
   />
-</p>
+
+</div>
 
 ---
 
 ## 📈 Contribuições Recentes
 
-<p align="center">
+<div align="center">
+
   <img 
+    width="100%" 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Neskquik&theme=tokyo-night&hide_border=true" 
-    alt="Gráfico de contribuições do GitHub"
+    alt="Gráfico de contribuições"
   />
-</p>
+
+</div>p>
 
 ---
 
