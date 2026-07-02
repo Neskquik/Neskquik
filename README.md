@@ -21,17 +21,30 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Neskquik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neskquik&theme=tokyonight" 
     height="165"
     alt="Estatísticas do GitHub"
   />
 
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neskquik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
- height="165"
- alt="Linguagens mais usadas"
-/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neskquik&theme=tokyonight" 
+    height="165"
+    alt="Linguagens mais usadas"
+  />
+</p>## 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neskquik&theme=tokyonight" 
+    height="165"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neskquik&theme=tokyonight" 
+    height="165"
+    alt="Linguagens mais usadas"
+  />
 </p>
 
 ---
