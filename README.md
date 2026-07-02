@@ -18,10 +18,33 @@
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neskquik&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neskquik&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Neskquik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="165"
+    alt="Estatísticas do GitHub"
+  />
+
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neskquik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+ height="165"
+ alt="Linguagens mais usadas"
+/>
+
 </p>
+
+---
+
+## 📈 Contribuições Recentes
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Neskquik&theme=tokyo-night&hide_border=true" 
+    alt="Gráfico de contribuições do GitHub"
+  />
+</p>
+
 
 ---
 
